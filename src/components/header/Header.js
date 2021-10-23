@@ -13,7 +13,7 @@ function Header() {
     <header className="header">
       <div className="header-container">
         <Link to='/'>
-          <img className="main-logo" src="/images/logo.gif" alt="logo" onClick={scrollToTop} />
+          <img className="main-logo" src="/images/logo.png" alt="logo" onClick={scrollToTop} />
         </Link>
         <div className="info-container">
           <div className="phone-container">
