@@ -22,7 +22,7 @@ function ServicesCard() {
               text="Tani është një kërkesë e detyrueshme për qiradhënësit që të kenë një EICR për çdo pronë shtëpiake ose komerciale me qira - të paktën çdo 5 vjet, ose në fillim të një qiraje të re."
             />
             <ServiceCardItem
-              imagesrc='/images/outdoor-lighting.jpg'
+              imagesrc='/images/nerasht4.png'
               iconsrc='/images/icon-outdoor-lighting.jpg'
               title="Ndriçimi i Jashtëm"
               text="Pavarësisht nëse keni një zonë jashtë që dëshironi të ndriçoni, një prizë të jashtme duke shtuar, keni një ndërtesë shtesë që dëshironi të keni energji, ose keni instaluar stolisje ose shtrim, unë do të jem në gjendje t'ju ndihmoj me këtë."
