@@ -1,8 +1,8 @@
 const projects = [
   {
     id: 1,
-    img: '/images/project-gallery/garage-front-S.jpg',
-    largeimg: '/images/project-gallery/garage-front-L.jpg',
+    img: '/images/project-gallery/nerasht2.png',
+    largeimg: '/images/project-gallery/nerasht1.png',
     heading: "Ndriçimi i Jashtëm",
     desc: "Ndriçimi i jashtëm i instaluar për një projekt garazhi",
     portrait: false
@@ -49,8 +49,8 @@ const projects = [
   },
   {
     id: 7,
-    img: '/images/project-gallery/security-lights-S.jpg',
-    largeimg: '/images/project-gallery/security-lights-L.jpg',
+    img: '/images/project-gallery/nerasht4.png',
+    largeimg: '/images/project-gallery/nerasht3.png',
     heading: "Ndriçimi i Jashtëm",
     desc: "Instalimi i dritave të ndriçimit të jashtëm",
     portrait: false
