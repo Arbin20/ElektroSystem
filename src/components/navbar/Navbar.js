@@ -43,7 +43,7 @@ function Navbar({ scrollToTop }) {
             </li>
             <li className="nav-item">
               <Link to='/projects' className="nav-links" onClick={closeMobileMenu}>
-                Projektet
+                Fotografitë
               </Link>
             </li>
             <li className={click ? "nav-item-hide" : "nav-item"} >

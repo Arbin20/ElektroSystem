@@ -12,7 +12,6 @@ function HeroSection() {
             <h2 className="main-title">Elektro System</h2>
             <h3 className="strapline">Nerasht</h3>
           </div>
-          <img className="nic-logo" src="/images/nic-logo.jpg" alt="" />
         </div>
         <div className="areas-list-container">
           <div className="intro">

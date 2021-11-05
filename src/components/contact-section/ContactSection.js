@@ -9,9 +9,6 @@ function ContactSection({ isHomePage }) {
       <div className="contact-section-container">
         <h1 className="contact-title">Kontakti</h1>
         <div className="contact-info-container">
-          <div className="contact-text-cont">
-            <p>Përshëndetje, unë jam Shenasi Islami nga elektro System. Ne jemi të vendosur në Nerashtë dhe jemi të kënaqur të ofrojmë shërbimet tona në komunën e Tearcës dhe Tetovës. Ju lutem mos ngurroni të kontaktoni për çdo shqetësim që keni në lidhje me punën elektrike. Do të donim të ishim në gjendje të ndihmonim, pavarësisht nga madhësia apo kompleksiteti i punës.</p>
-          </div>
           <div className="contact-details-cont">
             <div className="contact-details">
               <p>Shenasi Islami</p>
@@ -21,7 +18,7 @@ function ContactSection({ isHomePage }) {
               </div>
               <div className="email cont">
                 <i className="far fa-envelope"></i>
-                <a href="mailto:elektrosystem2010@gmail.com">elektrosystem@mail.com</a>
+                <a href="mailto:elektrosystem2010@gmail.com">elektrosystem2010@gmail.com</a>
               </div>
               <div className="social-media-links-container">
                 <Link
@@ -47,6 +44,7 @@ function ContactSection({ isHomePage }) {
         </div>
       </div>
     </section>
+
   );
 }
 

@@ -7,10 +7,8 @@ function JobCards() {
     <div className="jobs-section-container">
       <div className="job-cards-container">
         <ul className="job-cards">
-          <JobCardItem text="Ritela të plota dhe të pjesëshme" />
           <JobCardItem text="Zëvendësimi i njësive të konsumatorit" />
           <JobCardItem text="Instalimi/përmirësimi i ndriçimit LED" />
-          <JobCardItem text="Gjetja e defekteve" />
           <JobCardItem text="Raporti i gjendjes së instalimeve elektrike (EICR)" />
           <JobCardItem text="Ndriçimi dhe energjia e jashtme" />
           <JobCardItem text="Rregullim i paisjeve elektrike shtëpiake" />

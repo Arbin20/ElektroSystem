@@ -10,11 +10,10 @@ function ServicesCard() {
         <div className="services-cards-container">
           <ul className="service-cards">
             <ServiceCardItem
-              imagesrc='/images/rewire.jpg'
-              iconsrc='/images/icon-rewire.jpg'
-              title="Rilidhja e plotë dhe e pjesëshme"
-              text="Nëse shtëpia juaj ka nevojë për rilidhje të plotë, nëse keni instaluar një kuzhinë ose banjë të re ose nëse keni një garazh ose papafingo të shndërruar në një dhomë të banueshme, unë do të jem në gjendje t'ju ndihmoj me këtë."
-            />
+              imagesrc='/images/img1.jpg'
+              iconsrc='/images/img1.png'
+              title="Motor për Dyer"
+              text="Motor i cili shërben për levizjen e dyerve në mënyrë automatike duke shfrytëzuar senzorët, kartelat e indetifikimit, telefon, si dhe me telekomandën e motorit." />
             <ServiceCardItem
               imagesrc='/images/inspection.jpg'
               iconsrc='/images/icon-inspection.jpg'
