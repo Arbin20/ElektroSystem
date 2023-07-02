@@ -11,7 +11,7 @@ function ContactSection({ isHomePage }) {
         <div className="contact-info-container">
           <div className="contact-details-cont">
             <div className="contact-details">
-              <p>Shenasi Islami</p>
+              <p>Adhurim Qazimi & Fluturim Bejtuli</p>
               <div className="phone cont">
                 <i className="fas fa-phone-alt"></i>
                 <a href="tel:072548022">072-548-022</a>
