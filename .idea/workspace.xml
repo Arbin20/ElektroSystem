@@ -4,6 +4,7 @@
     <list default="true" id="8af814c9-955f-4e22-b20a-1a8ad7f1efd8" name="Changes" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/contact-section/ContactSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contact-section/ContactSection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688308251224</updated>
-      <workItem from="1688308253054" duration="372000" />
+      <workItem from="1688308253054" duration="480000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1688308524721</created>

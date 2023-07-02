@@ -14,7 +14,7 @@ function ContactSection({ isHomePage }) {
               <p>Adhurim Qazimi & Fluturim Bejtuli</p>
               <div className="phone cont">
                 <i className="fas fa-phone-alt"></i>
-                <a href="tel:072548022">072-548-022</a>
+                <a href="tel:072548022">070-329-113</a>
               </div>
               <div className="email cont">
                 <i className="far fa-envelope"></i>

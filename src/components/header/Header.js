@@ -19,7 +19,7 @@ function Header() {
                     <div className="phone-container">
                         <i className="header-icon fas fa-phone-alt"></i>
                         <h4>Telefoni</h4>
-                        <a className="mob" href="tel:070-356-113">+389 70 356 113</a>
+                        <a className="mob" href="tel:070-329-113">+389 70 329 113</a>
                     </div>
                 </div>
             </div>
