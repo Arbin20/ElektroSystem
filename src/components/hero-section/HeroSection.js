@@ -28,8 +28,6 @@ function HeroSection() {
           <p className="areas-text-2"></p>
           <div className="call-us-cont">
             <h1 className="call-us-now">Telefononi në numrin tonë:</h1>
-            <a className="number" href="tel:072548022">
-072-548-022</a>
           </div>
         </div>
         < JobCards />
