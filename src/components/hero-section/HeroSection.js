@@ -25,10 +25,7 @@ function HeroSection() {
               <li className="areas-list-item">Komuna e Tetovës</li>
             </ul>
           </div>
-          <p className="areas-text-2"></p>
-          <div className="call-us-cont">
-            <h1 className="call-us-now">Telefononi në numrin tonë:</h1>
-          </div>
+          
         </div>
         < JobCards />
       </div>
