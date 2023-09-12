@@ -24,7 +24,7 @@ function ServicesCard() {
               imagesrc='/images/nerasht4.png'
               iconsrc='/images/icon-outdoor-lighting.jpg'
               title="Ndriçimi i Jashtëm"
-              text="Pavarësisht nëse keni një zonë jashtë që dëshironi të ndriçoni, një prizë të jashtme duke shtuar, keni një ndërtesë shtesë që dëshironi të keni energji, ose keni instaluar stolisje ose shtrim, ne do të jemi në gjendje t'ju ndihmoj me këtë."
+              text="Pavarësisht nëse keni një zonë jashtë që dëshironi të ndriçoni apo një prizë të jashtme, si dhe keni një ndërtesë shtesë që dëshironi të keni energji atëher ne do të jemi në gjendje t'ju ndihmoj me këtë."
             />
           </ul>
         </div>
