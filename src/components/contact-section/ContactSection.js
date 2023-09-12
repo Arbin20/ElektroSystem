@@ -18,7 +18,7 @@ function ContactSection({ isHomePage }) {
               </div>
               <div className="email cont">
                 <i className="far fa-envelope"></i>
-                <a href="mailto:elektrosystem2010@gmail.com">adhurim.qazimi@gmail.com</a>
+                <a href="mailto:adhurim.qazimi@gmail.com">adhurim.qazimi@gmail.com</a>
               </div>
               <div className="social-media-links-container">
                 <Link
