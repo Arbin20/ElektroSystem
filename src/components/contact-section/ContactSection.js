@@ -18,12 +18,12 @@ function ContactSection({ isHomePage }) {
               </div>
               <div className="email cont">
                 <i className="far fa-envelope"></i>
-                <a href="mailto:elektrosystem2010@gmail.com">elektrosystem2010@gmail.com</a>
+                <a href="mailto:elektrosystem2010@gmail.com">adhurim.qazimi@gmail.com</a>
               </div>
               <div className="social-media-links-container">
                 <Link
                   className='social-link'
-                  to={'//www.facebook.com/ElektroSystemNerasht'}
+                  to={'//www.facebook.com/#'}
                   target='_blank'
                   aria-label='Facebook'
                 >
@@ -31,7 +31,7 @@ function ContactSection({ isHomePage }) {
                 </Link>
                 <Link
                   className='social-link'
-                  to={'//www.instagram.com/elektrosystem.nerasht'}
+                  to={'//www.instagram.com/#'}
                   target='_blank'
                   aria-label='Instagram'
                 >
