@@ -9,7 +9,7 @@ function HeroSection() {
         <div className="image-container">
           <img className="cta-image" src="/images/cta-image.jpg" alt="" />
           <div className="main-text-cont">
-            <h2 className="main-title">Elektro-Force Nerasht</h2>
+            <h2 className="main-title">Elektro Force</h2>
             <h3 className="strapline">Nerasht</h3>
           </div>
         </div>
